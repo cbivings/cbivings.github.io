@@ -1,0 +1,96 @@
+
+/*
+body {
+    padding: 0px;
+    width: 100%;
+}
+*/
+.pageContent {
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+
+#section1.col-sm-4 {
+    background-color: #252728;
+    height: 100%;
+    min-height: 100vh;
+    padding-bottom: 10px;
+}
+
+
+
+/*section one styles */
+
+
+#pic {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0px;
+    font-size: 44px;
+    color: whitesmoke;
+}
+
+.descriptionSection {
+    padding-bottom: 20px;
+}
+
+.descriptionContent {
+    display: block;
+    text-align: center;
+    color: whitesmoke;
+}
+
+/*section two styles*/
+#section2.col-sm-8 {
+/*    background-color: whitesmoke;*/
+    height: 100%;
+    min-height: 100vh;
+    padding-top: 6%;
+    padding-bottom: 10px;
+}
+
+.sectionTitle {
+    padding-left: 30px;
+    font-size: 44px;
+    font-weight: 500;
+    
+}
+
+.sectionContent {
+    padding-left: 40px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #5d5f60;
+}
+
+.fa {
+    color: #5d5f60;
+}
+
+.links {
+    display: inline;
+}
+
+a {
+    padding-right: 40px;
+    font-size: 2x;
+}
+
+.contact {
+    display: block;
+    padding-bottom: 15px;
+}
+
+.contactLabel {
+    display: inline;
+    padding-left: 10px;
+    color: #5d5f60;
+    font-size: medium;
+}
